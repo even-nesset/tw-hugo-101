@@ -1,0 +1,79 @@
+baseurl = "/"
+title = "The good page"
+languageCode = "en-us"
+paginate = "10" # Number of posts per page
+theme = "Mainroad-master"
+disqusShortname = "" # Enable comments by entering your Disqus shortname
+googleAnalytics = "" # Enable Google Analytics by entering your tracking id
+
+[Author] # Used in authorbox
+  name = "EJ"
+  bio = "EJ is a minimalist"
+  avatar = "images/ej.png"
+
+[Params]
+  subtitle = "Reuse -- Recycle -- Repurpose" # Subtitle of your site. Used in site header
+  description = "EJ's Personal blog about everything" # Site description. Used in meta description
+  copyright = "EJ" # copyright holder, otherwise will use site title
+  opengraph = true # Enable OpenGraph if true
+  twitter_cards = true # Enable Twitter Cards if true
+  readmore = false # Show "Read more" button in list if true
+  authorbox = true # Show authorbox at bottom of pages if true
+  toc = true # Enable Table of Contents
+  post_navigation = true # Show post navigation at bottom of pages if true
+  post_meta = ["date", "categories"] # Order of post meta information. Use ["none"] to turn off completely.
+  postSections = ["topic","post","blog","news"] # the section pages to show on home page and the "Recent articles" widget
+  #postSections = ["blog","news"] # alternative that shows more than one section's pages
+  #dateformat = "2006-01-02" # change the format of dates
+  #mathjax = true # Enable MathJax
+  #mathjaxPath = "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js" # Specify MathJax path
+  #mathjaxConfig = "TeX-AMS-MML_HTMLorMML" # Specify MathJax config
+
+[[menu.main]]
+    name = "Home" #Name in the navigation bar
+    weight = 10 #The larger the weight, the more on the right this item will be
+    url = "/" #URL address
+   
+[[menu.main]]
+    name = "Topics"
+    weight = 20
+    url = "/topic/"
+
+[[menu.main]]
+    name = "posts"
+    weight = 20
+    url = "/post/"
+
+[[menu.main]]
+    name = "blogs"
+    weight = 30
+    url = "/blog/"
+
+[[menu.main]]
+    name = "Images"
+    weight = 40
+    url = "/images/"
+
+[Params.sidebar]
+  home = "right" # Configure layout for home page
+  list = "right"  # Configure layout for list pages
+  single = false # Configure layout for single pages
+  # Enable widgets in given order
+  widgets = ["search", "recent", "categories", "taglist", "social"]
+
+[Params.widgets]
+  recent_num = 5 # Set the number of articles in the "Recent articles" widget
+  tags_counter = false # Enable counter for each tag in "Tags" widget (disabled by default)
+
+[Params.widgets.social]
+  # Enable parts of social widget
+  facebook = "username"
+  twitter = "username"
+  instagram = "username"
+  linkedin = "username"
+  #telegram = "username"
+  #github = "username"
+  #gitlab = "username"
+  #bitbucket = "username"
+  email = "even.nesset@gmail.com"
+  #google_plus = "profileid"
