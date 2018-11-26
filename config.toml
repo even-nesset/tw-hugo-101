@@ -3,7 +3,7 @@ title = "The good page"
 languageCode = "en-us"
 paginate = "10" # Number of posts per page
 theme = "Mainroad-master"
-disqusShortname = "" # Enable comments by entering your Disqus shortname
+disqusShortname = "EJ" # Enable comments by entering your Disqus shortname
 googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 
 [Author] # Used in authorbox
@@ -12,7 +12,7 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
   avatar = "images/ej.png"
 
 [Params]
-  subtitle = "Reuse -- Recycle -- Repurpose" # Subtitle of your site. Used in site header
+  subtitle = "Reuse -|- Recycle -|- Repurpose" # Subtitle of your site. Used in site header
   description = "EJ's Personal blog about everything" # Site description. Used in meta description
   copyright = "EJ" # copyright holder, otherwise will use site title
   opengraph = true # Enable OpenGraph if true
@@ -67,10 +67,10 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 
 [Params.widgets.social]
   # Enable parts of social widget
-  facebook = "username"
-  twitter = "username"
-  instagram = "username"
-  linkedin = "username"
+  #facebook = "username"
+  #twitter = "username"
+  #instagram = "username"
+  #linkedin = "username"
   #telegram = "username"
   #github = "username"
   #gitlab = "username"
