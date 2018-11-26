@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The good page</title>
+    <link>/</link>
+    <description>Recent content on The good page</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 23 Nov 2018 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>First Blog</title>
+      <link>/blog/first-blog/</link>
+      <pubDate>Fri, 23 Nov 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/blog/first-blog/</guid>
+      <description>Hello Hugo world! No more excuses for having no blog or documentation now!</description>
+    </item>
+    
+    <item>
+      <title>Second Blog</title>
+      <link>/blog/second-blog/</link>
+      <pubDate>Fri, 23 Nov 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/blog/second-blog/</guid>
+      <description>Hello again</description>
+    </item>
+    
+    <item>
+      <title>Topic A</title>
+      <link>/topic/first-topic/</link>
+      <pubDate>Fri, 23 Nov 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/topic/first-topic/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt.</description>
+    </item>
+    
+    <item>
+      <title>Topic B</title>
+      <link>/topic/second-topic/</link>
+      <pubDate>Fri, 23 Nov 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/topic/second-topic/</guid>
+      <description>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</description>
+    </item>
+    
+    <item>
+      <title>First Post</title>
+      <link>/post/first-post/</link>
+      <pubDate>Sat, 03 Mar 2018 13:23:10 +0100</pubDate>
+      
+      <guid>/post/first-post/</guid>
+      <description>Hello Even world! No more excuses for having no blog or documentation now!</description>
+    </item>
+    
+    <item>
+      <title>Second Post</title>
+      <link>/post/second-post/</link>
+      <pubDate>Sat, 03 Mar 2018 13:23:10 +0100</pubDate>
+      
+      <guid>/post/second-post/</guid>
+      <description>Hello again</description>
+    </item>
+    
+  </channel>
+</rss>

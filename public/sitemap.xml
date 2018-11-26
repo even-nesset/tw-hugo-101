@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/blog/first-blog/</loc>
+    <lastmod>2018-11-23T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/second-blog/</loc>
+    <lastmod>2018-11-23T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/topic/first-topic/</loc>
+    <lastmod>2018-11-23T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/topic/second-topic/</loc>
+    <lastmod>2018-11-23T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/first-post/</loc>
+    <lastmod>2018-03-03T13:23:10+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/second-post/</loc>
+    <lastmod>2018-03-03T13:23:10+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/blog-1/</loc>
+    <lastmod>2018-11-23T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/blog-2/</loc>
+    <lastmod>2018-11-23T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/</loc>
+    <lastmod>2018-11-23T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/post-1/</loc>
+    <lastmod>2018-03-03T13:23:10+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/post-2/</loc>
+    <lastmod>2018-03-03T13:23:10+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2018-03-03T13:23:10+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2018-11-23T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2018-11-23T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/topic-a/</loc>
+    <lastmod>2018-11-23T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/topic-b/</loc>
+    <lastmod>2018-11-23T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/topic/</loc>
+    <lastmod>2018-11-23T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
